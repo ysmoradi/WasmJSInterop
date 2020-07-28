@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30317.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WasmJSInterop", "WasmJSInterop\WasmJSInterop.csproj", "{457E8084-F5BB-4292-9828-A552738AF36F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457E8084-F5BB-4292-9828-A552738AF36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457E8084-F5BB-4292-9828-A552738AF36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457E8084-F5BB-4292-9828-A552738AF36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457E8084-F5BB-4292-9828-A552738AF36F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9BD9E8F-7199-45D4-B32F-18CBBD5932F7}
+	EndGlobalSection
+EndGlobal
